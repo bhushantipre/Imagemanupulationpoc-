@@ -11,3 +11,6 @@ Title : Multiple operation on single button click
 5. Rest condition for all in fifth click
 6. Counter shows how many times clicks on button
 
+bower commands
+
+bower install package_name

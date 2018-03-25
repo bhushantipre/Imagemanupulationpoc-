@@ -1,0 +1,20 @@
+{
+  "name": "bhushan",
+  "homepage": "https://github.com/bhushantipre/Imagemanupulationpoc-",
+  "authors": [
+    "Bhushan Tipre <bhushantipre91@gmail.com>"
+  ],
+  "description": "imagemanupulationpoc",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
